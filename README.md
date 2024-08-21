@@ -12,5 +12,6 @@
 This project uses fees financial asset data as example.
 
 References:
-[DI Futuro concept](https://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/juros/futuro-de-taxa-media-de-depositos-interfinanceiros-de-um-dia.htm)
-[Data source](https://www.infomoney.com.br/ferramentas/juros-futuros-di/)
+* [DI Futuro concept](https://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/juros/futuro-de-taxa-media-de-depositos-interfinanceiros-de-um-dia.htm)
+* [Data source](https://www.infomoney.com.br/ferramentas/juros-futuros-di/)
+* [Connect to webpages from Power BI Desktop](https://learn.microsoft.com/vi-vn/power-bi/connect-data/desktop-connect-to-web)
